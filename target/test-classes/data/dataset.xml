@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<dataset>
+<USER ID="1" ADDED="2012-10-24" FIRST_NAME="Edsger" LAST_NAME="Dijkstra"/>
+<USER ID="2" ADDED="2012-10-24" FIRST_NAME="David" LAST_NAME="Korn"/>
+<USER ID="3" ADDED="2012-10-24" FIRST_NAME="Leslie" LAST_NAME="Lamport"/>
+<USER ID="4" ADDED="2012-10-24" FIRST_NAME="Gordon" LAST_NAME="Moore"/>
+<USER ID="5" ADDED="2012-10-24" FIRST_NAME="Tim" LAST_NAME="Berners-Lee"/>
+</dataset>
